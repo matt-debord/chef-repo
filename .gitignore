@@ -1,4 +1,5 @@
 .vagrant
+.pem
 /cookbooks
 
 # Bundler
